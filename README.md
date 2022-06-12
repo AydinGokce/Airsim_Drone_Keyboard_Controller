@@ -12,13 +12,13 @@ As of now, there aren't controls for throttle but that can be adjusted as the `s
 <br>
 
 #### To Use
-Clone the repo
+Clone the repo: 
 `git clone https://github.com/AydinGokce/Airsim_Drone_Keyboard_Controller.git`
 
-cd into the repo
+cd into the repo: 
 `cd Airsim_Drone_Keyboard_Controller`
 
-Run `controller.py`
+Run controller.py: 
 `python3 controller.py`
 
 Perhaps you may find it useful! :)
